@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/pipeline.db
+data/output/
+.pytest_cache/

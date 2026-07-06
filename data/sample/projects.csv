@@ -1,0 +1,9 @@
+project_id,project_name,status,budget,start_date,duration_months
+P001,Thames Water AMP7 Upgrade,active,45000000,2024-01-15,36
+P002,TfL 4LM Power Portfolio,completed,12000000,2015-11-01,18
+P003,Hitachi Rail Bid Package,active,85000000,2025-04-01,12
+P004,ARUP WAAP Programme,active,32000000,2024-11-01,30
+P005,Enable Power Systems Grid,completed,8500000,2022-03-01,14
+P006,Network Rail Signalling Upgrade,active,67000000,2025-06-01,48
+P007,Crossrail Station Fit-Out,completed,28000000,2018-01-01,24
+P008,HS2 Enabling Works,active,95000000,2024-09-01,60

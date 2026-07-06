@@ -1,0 +1,10 @@
+[
+  {"metric": "schedule_variance", "project": "P001", "value": -2.5, "unit": "percent"},
+  {"metric": "cost_performance_index", "project": "P001", "value": 0.95, "unit": "ratio"},
+  {"metric": "schedule_variance", "project": "P003", "value": 1.2, "unit": "percent"},
+  {"metric": "cost_performance_index", "project": "P003", "value": 1.02, "unit": "ratio"},
+  {"metric": "schedule_variance", "project": "P006", "value": -4.1, "unit": "percent"},
+  {"metric": "cost_performance_index", "project": "P006", "value": 0.88, "unit": "ratio"},
+  {"metric": "risk_exposure", "project": "P008", "value": 12000000, "unit": "gbp"},
+  {"metric": "risk_exposure", "project": "P001", "value": 8500000, "unit": "gbp"}
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "contract_id": "C001",
+    "project_id": "P001",
+    "supplier": "Balfour Beatty",
+    "value": 12000000,
+    "type": "NEC4 Option A",
+    "start_date": "2024-03-01",
+    "duration_months": 24
+  },
+  {
+    "contract_id": "C002",
+    "project_id": "P001",
+    "supplier": "Costain",
+    "value": 8500000,
+    "type": "NEC4 Option C",
+    "start_date": "2024-04-01",
+    "duration_months": 30
+  },
+  {
+    "contract_id": "C003",
+    "project_id": "P003",
+    "supplier": "Siemens Mobility",
+    "value": 22000000,
+    "type": "NEC4 Option E",
+    "start_date": "2025-05-01",
+    "duration_months": 12
+  },
+  {
+    "contract_id": "C004",
+    "project_id": "P006",
+    "supplier": "Network Rail Infrastructure",
+    "value": 45000000,
+    "type": "NEC4 Option A",
+    "start_date": "2025-07-01",
+    "duration_months": 48
+  }
+]
