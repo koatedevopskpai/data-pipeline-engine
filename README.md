@@ -1,6 +1,6 @@
 # Data Pipeline Engine
 
-A production-grade ETL pipeline demonstrating modern data engineering patterns: extract, transform, load across multiple source types, with a FastAPI serving layer, Streamlit observability dashboard, Docker containerisation, and CI/CD.
+An ETL reference pipeline demonstrating modern data engineering patterns: extract, transform, load across multiple source types, with a FastAPI serving layer, Streamlit observability dashboard, Docker containerisation, and CI/CD.
 
 ## Architecture
 
@@ -30,7 +30,7 @@ Data Sources ──▶ Extract ──▶ Transform ──▶ Load ──▶ API 
 
 ```bash
 # Clone and run
-git clone https://github.com/koate-kpai/data-pipeline-engine.git
+git clone https://github.com/koatedevopskpai/data-pipeline-engine.git
 cd data-pipeline-engine
 docker compose up --build
 
@@ -68,3 +68,10 @@ data-pipeline-engine/
 ├── .github/workflows/ci.yml
 └── pyproject.toml
 ```
+
+
+## Claim review — 18 October 2026
+
+See [verification and limits](evidence/W5-02.md) for the source revision, claim
+classification and observed CI status. Wording corrections do not establish a
+new deployment, passing test suite or production operation.
